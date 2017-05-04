@@ -1,0 +1,7 @@
+public class BrokenLine {
+	private Point[] brokenLine;
+	
+	BrokenLine(){
+	}
+
+}
